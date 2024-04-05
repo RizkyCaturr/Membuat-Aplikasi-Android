@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gunung Berapi Aktif di Indonesia</string>
+    <string name="nama">Muhammad Fadhil Aslam</string>
+    <string name="email">muhammadfadhilaslam@student.telkomuniversity.ac.id</string>
+    <string name="blank">*if picture blank
+    you must ask </string>
+
+    <string name="gng_name" />
+    <string name="Lokasi">Lokasi     : </string>
+    <string name="Tinggi">Ketinggian : </string>
+    <string name="Sejarah">Sejarah   : </string>
+    <string name="about" />
+
+
+
+
+</resources>
